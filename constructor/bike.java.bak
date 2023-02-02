@@ -1,0 +1,13 @@
+class bike()
+{
+    bike()
+	{
+
+	}
+	public static void main(String[] args) 
+	String brand="RE";
+	String color="black";
+	bike b1=new bike();
+	bike b2=new bike();
+	
+}
